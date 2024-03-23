@@ -3,15 +3,14 @@
   "version": "1.0.0",
   "description": "fetch firebase Auth emails to update RevenueCat's subscriber attribute email.  ",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.0.0",
-    "firebase-admin": "^11.8.0",
-    "axios": "^1.2.1"
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "firebase-admin": "^11.11.1"
   }
 }
